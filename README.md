@@ -88,12 +88,12 @@ Raw CSV  →  Data Exploration  →  Data Cleaning  →  Power BI Dashboard  →
 
 Built a dark-themed, professional Power BI dashboard with:
 
-- ✅ KPI Cards — Total Titles, Ratings, Genres, Directors, Date Range
-- ✅ Ratings by Total Shows — Horizontal bar chart
-- ✅ Genres by Total Shows — Top genres ranked
-- ✅ Movies vs. TV Shows — Donut chart split
-- ✅ Total Shows by Country — Interactive world map
-- ✅ Total Shows by Release Year — Timeline trend line chart
+- KPI Cards — Total Titles, Ratings, Genres, Directors, Date Range
+- Ratings by Total Shows — Horizontal bar chart
+- Genres by Total Shows — Top genres ranked
+- Movies vs. TV Shows — Donut chart split
+- Total Shows by Country — Interactive world map
+- Total Shows by Release Year — Timeline trend line chart
 
 ---
 
